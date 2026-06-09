@@ -4,7 +4,7 @@ accounts:
   message: "Welcome to Bank accounts related prod APIs"
   contactDetails:
     name: "Darko Koprivica - Product Owner"
-    email: "darkok@bank.com"
+    email: "{cipher}f5949fa809a83de133965b55297a7fbca880d2dbd98056b275a240e89a95ac1d"
   onCallSupport:
     - (066) 324-993
     - (066) 368-423
