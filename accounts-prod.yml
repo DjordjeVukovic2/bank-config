@@ -1,0 +1,10 @@
+build:
+  version: "1.0"
+accounts:
+  message: "Welcome to Bank accounts related prod APIs"
+  contactDetails:
+    name: "Darko Koprivica - Product Owner"
+    email: "darkok@bank.com"
+  onCallSupport:
+    - (066) 324-993
+    - (066) 368-423

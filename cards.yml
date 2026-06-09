@@ -1,0 +1,10 @@
+build:
+  version: "3.0"
+cards:
+  message: "Welcome to Bank cards related local APIs"
+  contactDetails:
+    name: "Damjan Vukovic - Developer"
+    email: "damjanv@bank.com"
+  onCallSupport:
+    - (066) 324-993
+    - (066) 368-423

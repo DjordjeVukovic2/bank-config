@@ -1,0 +1,10 @@
+build:
+  version: "2.0"
+loans:
+  message: "Welcome to Bank loans related QA APIs"
+  contactDetails:
+    name: "Marko Aleksic - QA Lead"
+    email: "markoa@bank.com"
+  onCallSupport:
+    - (066) 989-993
+    - (066) 368-973
