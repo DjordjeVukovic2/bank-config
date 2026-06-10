@@ -3,7 +3,7 @@ build:
 cards:
   message: "Welcome to Bank cards related prod APIs"
   contactDetails:
-    name: "Darko Koprivica - Product Owner"
+    name: "Darko Koprivica Kopra - Product Owner"
     email: "darkok@bank.com"
   onCallSupport:
     - (066) 324-993
